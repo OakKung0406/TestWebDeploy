@@ -7,4 +7,5 @@ const nextConfig = {
     }
 };
 
+// ต้องใช้ module.exports ไม่ใช่ export default
 module.exports = nextConfig;
